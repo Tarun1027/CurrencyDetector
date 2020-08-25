@@ -1,7 +1,6 @@
 # Android Currency Detector App using TensorFlow Lite image classification
 
 ## Overview
-
 This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
 on Android. It uses
 [Image classification](https://www.tensorflow.org/lite/models/image_classification/overview)
